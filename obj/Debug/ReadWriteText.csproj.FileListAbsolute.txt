@@ -1,0 +1,16 @@
+C:\cs2008\ch12\ReadWriteText\bin\Debug\ReadWriteText.exe
+C:\cs2008\ch12\ReadWriteText\bin\Debug\ReadWriteText.pdb
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ResolveAssemblyReference.cache
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ReadWriteText.Form1.resources
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ReadWriteText.Properties.Resources.resources
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ReadWriteText.csproj.GenerateResource.Cache
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ReadWriteText.exe
+C:\cs2008\ch12\ReadWriteText\obj\Debug\ReadWriteText.pdb
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ReadWriteText.exe
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ReadWriteText.pdb
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\bin\Debug\ReadWriteText.exe
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\bin\Debug\ReadWriteText.pdb
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ReadWriteText.Form1.resources
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ReadWriteText.Properties.Resources.resources
+C:\Users\jemi.lu\Desktop\書附光碟\c\ch12\ReadWriteText\obj\Debug\ReadWriteText.csproj.GenerateResource.Cache

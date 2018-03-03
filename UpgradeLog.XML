@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReadWriteText">
+</Property><Property Name="方案檔" Value="C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\ReadWriteText.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\ReadWriteText.suo">
+</Property><Property Name="Date" Value="2016年10月4日">
+</Property><Property Name="Time" Value="下午 17:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ReadWriteText.sln" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\ReadWriteText.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ReadWriteText.suo" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\ReadWriteText.suo">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="ReadWriteText.csproj" Description="專案檔已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\ReadWriteText.csproj">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="ReadWriteText.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\ReadWriteText.csproj.user">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Form1.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Program.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Form1.resx" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\jemi.lu\Desktop\CSharp\code\Bin2TXT\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="ReadWriteText.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ReadWriteText" Source="ReadWriteText.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReadWriteText.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ReadWriteText.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReadWriteText" Source="ReadWriteText.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
